@@ -1,0 +1,10 @@
+# How to Use this Template {.unnumbered}
+
+How to use this template for your own bookclub! 
+
+1. Fork and clone the repo
+2. Edit the details in index.qmd
+3. Remove the name of this file from _quarto.yml 
+4. Preview to make sure things look right
+3. Push your changes
+4. Publish! 

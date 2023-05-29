@@ -9,6 +9,9 @@ book:
     - chapter1.qmd
     - chapter2.qmd
     - chapter3.qmd
+    - text: "Use this template"
+      file: use-template.qmd
+    
 
 bibliography: references.bib
 

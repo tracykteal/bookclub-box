@@ -1,9 +1,22 @@
 # Chapter 1
 
-This is a book created from markdown and executable code.
+These are some ideas of things you can do in bookclub with Chapter 1.
 
-See @knuth84 for additional discussion of literate programming.
+### Questions you can discuss:
+
+
+### Exercises you can do
+
+There are already exercises in the chapter. You can go through them all. These are a few that
+are good as both exercises and for discussion.
+
+#### Exercise 3
 
 ```{r}
 1 + 1
 ```
+
+- Go through this exercise together.
+- What do you notice about the syntax?
+- What might you change in your current coding practices to use this syntax? Would it be helpful for your clarity or others?
+

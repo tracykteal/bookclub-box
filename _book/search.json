@@ -33,5 +33,12 @@
     "title": "3  Chapter 3",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "use-template.html",
+    "href": "use-template.html",
+    "title": "How to Use this Template",
+    "section": "",
+    "text": "How to use this template for your own bookclub!\n\nFork and clone the repo\nEdit the details in index.qmd\nRemove the name of this file from _quarto.yml\nPreview to make sure things look right\nPush your changes\nPublish!"
   }
 ]
