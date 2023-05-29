@@ -18,7 +18,7 @@
     "href": "chapter1.html",
     "title": "1  Chapter 1",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "These are some ideas of things you can do in bookclub with Chapter 1.\n\nQuestions you can discuss\n\nWhat was new to you in this chapter?\nWhat is still unclear?\n\n\n\nExercises you can do\nThere are already exercises in the chapter. You can go through them all. These are a few that are good as both exercises and for discussion.\n\nExercise 1.3\n\na &lt;- 3\nb &lt;- 4\na + b\n\n\n\n\n\n\n\nClick for solution\n\n\n\n\n\nSolution to the exercise\n\n\n\n\nGo through this exercise together.\nWhat do you notice about the syntax?\nWhat might you change in your current coding practices to use this syntax? Would it be helpful for your clarity or others?"
   },
   {
     "objectID": "chapter2.html",

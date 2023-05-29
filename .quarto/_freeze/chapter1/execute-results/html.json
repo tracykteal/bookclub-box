@@ -1,7 +1,7 @@
 {
-  "hash": "a69971cbf135825ebbc0aef855c17be3",
+  "hash": "1393651a90082ded8628c7d2b3a0ff31",
   "result": {
-    "markdown": "# Chapter 1\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "# Chapter 1\n\nThese are some ideas of things you can do in bookclub with Chapter 1.\n\n### Questions you can discuss {.unnumbered}\n\n- What was new to you in this chapter?\n- What is still unclear?\n\n### Exercises you can do {.unnumbered}\n\nThere are already exercises in the chapter. You can go through them all. These are a few that are good as both exercises and for discussion.\n\n#### Exercise 1.3 {.unnumbered}\n\n\n::: {.cell}\n\n```{.r .cell-code}\na <- 3\nb <- 4\na + b\n```\n:::\n\n\n::: {.callout-tip collapse=\"true\" title=\"Click for solution\"}\n\nSolution to the exercise\n:::\n\n-   Go through this exercise together.\n-   What do you notice about the syntax?\n-   What might you change in your current coding practices to use this syntax? Would it be helpful for your clarity or others?\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
