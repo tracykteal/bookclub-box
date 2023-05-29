@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e2fc415b-bb04-46bd-9146-2e0dfcb4e52d
+      url: 'https://tracykteal.quarto.pub/r-packages-bookclub-in-a-box-template'

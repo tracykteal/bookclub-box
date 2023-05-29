@@ -1,0 +1,29 @@
+# About this bookclub {.unnumbered}
+
+```{r echo=FALSE}
+format <- "format type"    # Should be something like 'online' or 'in person' or 'at Yuki's house'
+participants <- c("Names", "Groups")
+goals <- "The goal of this bookclub is to get together and have a nice time and learn new R things"
+
+```
+
+This is a bookclub for the **R Packages** book by Jenny Bryan and Hadley Wickham.
+
+In this bookclub we'll go through various chapters of the book. Each chapter has some bookclub recommended activities and exercises. You can go through the chapters in order, or just pick a few you want to focus on. 
+
+To connect with other people doing the bookclub too, **do what....**
+
+## Our bookclub
+
+Each bookclub has its own format. Here's our format, who's participating, our goals and the dates and times we'll be doing what when.
+
+**Format:** `r format`
+
+**Participants:** `r participants`
+
+**Goals:** `r goals`
+
+**Meetings:** Some way to put some sort of schedule for the bookclub here. 
+
+
+

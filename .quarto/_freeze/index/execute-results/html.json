@@ -1,0 +1,14 @@
+{
+  "hash": "769926d8d1e727558349947fb6c8fa39",
+  "result": {
+    "markdown": "# About this bookclub {.unnumbered}\n\n\n::: {.cell}\n\n:::\n\n\nThis is a bookclub for the **R Packages** book by Jenny Bryan and Hadley Wickham.\n\nIn this bookclub we'll go through various chapters of the book. Each chapter has some bookclub recommended activities and exercises. You can go through the chapters in order, or just pick a few you want to focus on. \n\nTo connect with other people doing the bookclub too, **do what....**\n\n## Our bookclub\n\nEach bookclub has its own format. Here's our format, who's participating, our goals and the dates and times we'll be doing what when.\n\n**Format:** format type\n\n**Participants:** Names, Groups\n\n**Goals:** The goal of this bookclub is to get together and have a nice time and learn new R things\n\n**Meetings:** Some way to put some sort of schedule for the bookclub here. \n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Packages Bookclub in a Box template",
+    "section": "",
+    "text": "About this bookclub\nThis is a bookclub for the R Packages book by Jenny Bryan and Hadley Wickham.\nIn this bookclub we’ll go through various chapters of the book. Each chapter has some bookclub recommended activities and exercises. You can go through the chapters in order, or just pick a few you want to focus on.\nTo connect with other people doing the bookclub too, do what…."
+  },
+  {
+    "objectID": "index.html#our-bookclub",
+    "href": "index.html#our-bookclub",
+    "title": "R Packages Bookclub in a Box template",
+    "section": "Our bookclub",
+    "text": "Our bookclub\nEach bookclub has its own format. Here’s our format, who’s participating, our goals and the dates and times we’ll be doing what when.\nFormat: format type\nParticipants: Names, Groups\nGoals: The goal of this bookclub is to get together and have a nice time and learn new R things\nMeetings: Some way to put some sort of schedule for the bookclub here."
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "1  Chapter 1",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "chapter2.html",
+    "href": "chapter2.html",
+    "title": "2  Chapter 2",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "chapter3.html",
+    "href": "chapter3.html",
+    "title": "3  Chapter 3",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
